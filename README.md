@@ -21,3 +21,4 @@ Other than that, here are a few interesting **projects** (written in **Kutejs**,
 Im working as a maintenance analyst for Grupo Horizonte, AMBEV logistical support, I also work with web-design, pen-testing and video editing (independently).
 
 I'm currently updating my [Portfolio](https://fenrirdesign.tech) and studying ethical hacking related stuff. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/orhunp/) about **job-related** matters.
+<img src="https://imgur.com/bDqdBCy">
