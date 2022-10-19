@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm someone who is passionate about **KALI/ARCH-Linux** and likes to **write code**.
+I'm someone who is passionate about *KALI/ARCH-Linux* and likes to **write code**.
 
 <br>
 
