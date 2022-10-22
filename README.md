@@ -10,7 +10,7 @@ I mostly write **SCSSjs** these days. See my _pinned repositories_ below.
 
 Other than that, here are a few interesting **projects** (written in **Kutejs**, **SCSSjs**, **JS**) that are worth mentioning:
 
-- [Portfolio-terceiro](https://github.com/wannacry3030/Portfolio_terceiro) - A minimal portfolio, using the nord1 and nord2 color theme
+- [Hover-light-JS](https://github.com/wannacry3030/Hover-light-JS) - hover effect that spans to multiple card elements
 - [html-css-designs](https://github.com/wannacry3030/html_css-designs) - a minimal sales site, using modern design elements
 - [blog-HTML-e-CSS](https://github.com/wannacry3030/blog-HTML-e-CSS) - a blog-like site, using notions of flexbox and css-grid
 - [neumorfismo-e-drop_shadow](https://github.com/wannacry3030/neumorfismo-e-drop_shadow) - A project made to display neumorfism and drop-shadow elements
