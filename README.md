@@ -1,6 +1,8 @@
-<img align="left" src="https://darknetdiaries.com/imgs/dangercable.jpg">
+<!-- <img align="left" src="https://darknetdiaries.com/imgs/dangercable.jpg"> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wannacry3030)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannacry3030&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hey!
 
