@@ -1,17 +1,10 @@
 <!-- <img align="left" src="https://darknetdiaries.com/imgs/dangercable.jpg"> -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannacry3030&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannacry3030&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannacry3030&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
- 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wannacry3030&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wannacry3030&repo=convoychat" />
-</a>
 
+ 
 ### Hey!
 
 I'm someone who is passionate about ***KALI/ARCH-Linux*** and likes to **write code**.
