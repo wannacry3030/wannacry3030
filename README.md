@@ -1,5 +1,7 @@
 <img align="left" src="https://darknetdiaries.com/imgs/dangercable.jpg">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wannacry3030)](https://git.io/streak-stats)
+
 ### Hey!
 
 I'm someone who is passionate about ***KALI/ARCH-Linux*** and likes to **write code**.
