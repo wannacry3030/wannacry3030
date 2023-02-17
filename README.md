@@ -1,6 +1,6 @@
 <!-- <img align="left" src="https://darknetdiaries.com/imgs/dangercable.jpg"> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannacry3030&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannacry3030&show_icons=true&theme=synthwave)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wannacry3030)](https://git.io/streak-stats)
 
