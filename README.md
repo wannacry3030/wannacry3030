@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannacry3030&show_icons=true&theme=synthwave)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wannacry3030)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannacry3030&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hey!
