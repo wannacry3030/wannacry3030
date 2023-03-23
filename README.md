@@ -1,8 +1,4 @@
-<!-- <img align="left" src="https://darknetdiaries.com/imgs/dangercable.jpg"> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannacry3030&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannacry3030&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://darknetdiaries.com/imgs/dangercable.jpg">
 
  
 ### Hey!
