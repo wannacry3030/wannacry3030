@@ -7,7 +7,7 @@ I'm someone who is passionate about ***KALI/ARCH-Linux*** and likes to **write c
 
 <br>
 
-I mostly write **SCSSjs** these days. See my _pinned repositories_ below.
+I mostly write **html/js** these days. See my _pinned repositories_ below.
 
 Other than that, here are a few interesting **projects** (written in **Kutejs**, **SCSSjs**, **JS**) that are worth mentioning:
 
